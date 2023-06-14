@@ -8,6 +8,10 @@ public class Test01 {
 		Scanner scan = new Scanner(System.in);
 		
 		int coffee, price=0;
+		
+		
+		
+		
 		System.out.print("커피 수 입력 : ");
 		coffee = scan.nextInt();
 		if( coffee > 10 ) {
